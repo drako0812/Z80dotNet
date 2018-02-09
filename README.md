@@ -1,5 +1,8 @@
 # Z80.NET #
 
+## What is this madness?!
+
+I am going to port this library to C++/CLI to see if more performance can be squeezed out.
 
 ## What is this? ##
 
